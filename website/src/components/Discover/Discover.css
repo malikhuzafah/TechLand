@@ -1,0 +1,17 @@
+.disc_button {
+  background-color: #ddd0c8;
+  border-radius: 25px;
+  color: #000;
+  cursor: pointer;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0 0 0 1rem;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease-in-out;
+  text-decoration: none;
+}
+
+.disc_button:hover {
+  background-color: #e7473c;
+  color: #fff;
+}

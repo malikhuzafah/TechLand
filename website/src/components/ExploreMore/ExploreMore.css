@@ -1,0 +1,10 @@
+.link {
+  color: #000;
+  font-size: 12px;
+}
+
+@media screen and (max-width: 870px) {
+  .explore-more {
+    display: none;
+  }
+}

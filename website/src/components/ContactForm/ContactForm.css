@@ -1,0 +1,20 @@
+/* ContactForm.css */
+
+#contact-form {
+  padding: 2rem;
+}
+
+form {
+  display: grid;
+  gap: 1rem;
+}
+
+@media (max-width: 768px) {
+  #contact-form {
+    padding: 1rem;
+  }
+
+  form {
+    grid-template-columns: 1fr;
+  }
+}
